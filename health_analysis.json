@@ -1,0 +1,111 @@
+{
+
+    "conditions": [
+
+      {
+
+        "name": "Thyroid",
+
+        "imagesrc":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAMAAzAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAABQIDBAEGB//EAEUQAAIBAwIDBAYHBAgFBQAAAAECAwAEERIhBTFBEyJRYRQycYGRoQYjQlKxwdEzYnKyFUNzkpOi4fA0NVOC8SQlVFXC/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECAwQF/8QAJhEBAAMAAgIBAwQDAAAAAAAAAAECEQMhEjFBIzNRBBNCQxQiMv/aAAwDAQACEQMRAD8A+40UUUAuuTlhjcdpisXEHKspUZ0nOK2XmxlAOCCHFYuzlnmIfuRgZyeZrnv7xtWOjCBwVG+c71eDSyzcqhU80Yr7s7fIit6MCKqslaFtFcBzXatIorhooDuaNqjQQcbUB0nzowDzqso55VEiRfOka7lyFGairZXwNFASoJqNcJpBLNc1VAmok0aeJO21Yb6bTCx8ATWiRtqU8R1uESP1ncL+dRaVVhfZykd3c4FNOHksGJO5C/hSu3tJYW+sk1DSTnHyprYLpVsDkFHyo490cmY20VwV2uhgKKKKAxXyEYmVdWkYdRzK/wClVrpKBlIwRsedMMVklsInYsjPEW59njB9xGKi1dXW2FhPZXTDpIo9zL/oR8K1wvtvULjhemAyQvJLPH3o9bAZ8tgOfKqo5FfDISVYZG2/vrLJrPbTYn0YK9TDVkR/MVepB5HeqiUzCzNdFV8udGsCqJbkCu5FZzKPGoGcDqKXkPHWrXiols1la4QczUfSFPI0vM4q1ggDajNZhMPEV3tKNPFxao6qr10aqWjEs1wnaoFqgzZFLTxGdtvKlUTdvxMEDIhGnPTU2Cflj4mr764KgJGuuVjpRPvN0HxrXa/R9IF7t5chySzkCPBY7kjKkjfzpeM29HsU9rnlCsucuSDhBzNb7SJo4u+Rrbc4rltZxW47gZn6u5yx9/5VeBjlW1a4xtbXaKKKtIooooArldooCJAxypDxo/0Xm5AY20jASBRkoxPrDyzzr0FLuPQiXg92mMnsyR7am8bCqz2TpdgqHicMp3DcxWqO/TYMRnypGUkjBeMgMdygGxrZbwCaMSJsTzXwrkraXTNYNxdIRkMKre6XoaVtHIjYAqJjkO+sj2VXnJeEGD3a8s71mkuWzjl7qoRMNuCT41d2erc1EzMnERCppW57murI3nVnZ1IR7bUdm4twynyrTHeA7NVAiOMAUejlvKnEzBdGCyow2Nd1jxFLhauvqysvso7GYf1hb2iq2RkNzSDxFUTXaRIzkgADcmltzMYsBmJPIAcyaheQN6DJNMveCHSufVOPxpaMO+C2nbFL+YbsuYk+6D19tOxyqmzTRaQr4IB8qvG1dVYyHNadkUUUVSRRRRQBRRRQBRRRQBVV0uq2lUjOUP4VbUXGUYeIpT6EPJwx67WJsb6RV1o2idh9k9KnZqPRkA5DIx7zQY9L7VyZ2696bWhWRdhzrLJa4O1botgo8jXXUax7M1r4xjLynWCOLHSgpWxUGphncdKl2IPSp8VawaN6mqDwq94cGohdJ3pYeuKlXRoM8qgDvU1kGpQOZNVEJmUii5ORVcihVOBirS4LuPD9KpfLKcdKJEFUsKvcx7Z71XcXAFoEH2iB8TVyxf8AqV25VRxY5uLWIfalT+YfpWeL16aMaUUeQqdcFdrrhyiiiimBRRRQBRRWFeJ25iikdmQSsUXuE7gkbkcuXWgN1FLTxvh4i7T0ju50/s2yTtyGMnmOVWWnFLS9kEdtOHfSH06SCAcbnI25igN1B5UUUB5rh4PZY8GYf5jWx4wQDjes1j/WjoJn/Gtw351zfl0z8OA4ljHkfyqua50SrsD3T13+FFwdM8GNu6+flWQqH4hErb5jYfMVr/HWf8sWRTh74qrYB329lNFGBXmLVtHFuz65O/n/ALFejjmZ0BWPAI+33amsKusKBqreEGpIza9DkbjIYcjXJpuzYKhQNjJLcsU8RqpoDpJG2N6XzXMdtexJI4AO+T7KZtNIY20xFyRtoIIrzXE3Bu2bGoxYUHzA3/ClaMXTs7jfUZnxjflnyFShOoSAfZfB+A/WstsRGtwg+y65/uir+HnPpIP/AFs/5Voz/XU7lsWovfzS26Ha8Z4eOYEuT7gabkAA0qf/AJzYf2p/lNRK3pq7XBXa6XOKKKKAKKKKAK8sbfhzrH23EbrTDMzxowjOMs2w7niDvz869TSf+hLdgokLl0V1UqcbM2fiKAXrHwxrxZZJmEYRI4hhtQIIbLeHQb4rvDrjg9lxAtDPOGeEK0smdGlSQA22Fxg45Z1HnmmA4HbghhNOGz32DgF+Wc7dcVUv0asdJjLTdkRpePKhXGSQCAOhNAaRxqyfAikLysCUh0lXYgZxg79PdkeNbIriOWOORHUo6hlOeYO4pavAoY5vSllle7TUUmkYHcqFOcDkQqg+Sj21qj4VYJBDE9rBJ2Uaxq0kascKMDcigFfD2UmYahntn5nzreCPEfEUrsuH2B7TNjan61/6lfH2VvThnD//AIFp/gL+lYQ2lXeOvbwd4DuyHn/DWOOUHikIJBGh+vmKsv8Ah3DxdW+LG1/Yyf1K+KeVL4rGxPE7cehWu8b84V8R5Vrn02cTvJiueRYOKyEMNQfWN+n+816SCeKWINrUlt+deO4/Z2MHECy2dthsDAiXfY+VNfo9b8OvbQYs7VtGzZhX3dKira8HvcJCBtJzkN4HxrPO47XRr1PzY1d2SxlFjUKq7AKMAVlkTF7MfAj8BVslrSrbwvK5wVUnNJLfF16NGxOuaVpWHgBsf9+dX/SWbsLBkBwz7DzpZwCUtxOBWOWELsQeY5Vnee8bUr1pzAxNxfp0DLj+6K18L37c+JU/LH5VgibFzxD+JR8q28HO848lPxzWmfT1jP3JhubkaWAauMWQ8HY/KmU7rFGXkZVQc2Y4xSPt5bjito1jHpUswE0oIXl0HM/hWPy0+HqLm5itojLPKkcajJZzgCl/ETNJc8NkgubiGOSQhkUABl7N2GQQSN1HhWi3sI0mE85a4uBylk30/wAI5L7t6y8a4nLY3lnDH2YWdgCXz3syRphfPDk+4V0MC+145fra2wnjiklkQYcalBIjR2zzxsW+FSfj12AAyxO/Z6zFFkONgcnOdjnA26VTa8XupmRhEj3EcSAySIcjuam29o+dMuEX897fyGUqqiEHswDmM55EnrQGjgl3LeR3DzTxS4kwphBCgYG3M75pkOVAAxtXaAKKKKAKKK5QHa4ahLKkK6pHCjzpXxC/keNltwUUjHann7h+uPZUzaIOKzKqyxhscjIx+dMI6WcETFig1FtLEaj13poorKrWS/if/Gxf2Eg/zLSaJ8cStz+6w/CnHEv+Oh/sJP5lrycsr31/DFASltqdXmU7ynHqp1xtuw92d8b/ANTGn3oL+MXUvFeLyx27lY420tKvTHQefTPSnHB3kt7yFLF0ghni0hWXI1CltrFGJkiChFBxtsMA8q9DdcOW6iTs5PRptnwoyA3Q48a5Ynt6N69LpJOLQupkuAdRwT2YZR+YqiO44jc35AnGGU6SIxgkHBzVsHF7mLMPEBAk4xldLYYctQYZ54qt7p2kuLmzwzQyEMkY17FVOBnHXetrW6ccVnZLfpAs5vYoprvtioyQEAAJ5AVk4DOYONIZR33GjHt/8Uzjt5YJTcXAJmdSSMciT0pA9zr4uUsY1uJRKoYqdKJvyLb9egBNYWts666VysQ9bAR6TxAkgaXXJPL1RufKo8GvpJ5rhOGxiYBYwZnOIx63I8293xpfDaGabiEnEXE+l10xquIgdI+zvk+ZNPPo+cy3R/djHzeuuI+k4LT9aWleHBmE15IbiZdxqGEX2LyFVzMqcRsT1MuPZsaZkUu4xAJoo+5q0yAny9lYT+WsHa8qpntYJ5YZJoVd4W1Rkj1T5VgtrxoDon1PENhIBkr/ABfrTRGV1DIQVPIg5FbROspjEgAM4AowN9hvzortMhRRRQBRVZkVeufZVb9o/M9mvlzpTITlmSId5gD4CszXMrkiNQi/efmfYKn2ap6o38eZrLe3UFnEJLlyqFgoIUncnYbeJOKiZmVRCWgOQzHXj7Tc/dVUkSv05CtEU8EsbGGRGAZlbB5EEg594roeJNy6kjJxnfbnUzXVxOOW0CwRhANhy9tWHYEkgAbkk4qBubcdp9bGvZrqfJ9UedYjG/FMNKpjshukbbGbzb93y69aqIxMyW8SLcVv4N2Th4ikGrkbjdM48E/m9nNdcBUvLIKFVRIw0jkBpOw+Feh4mP8A11iB6rJKv8hH4Uh4gNNzaPjOmf8AEEVr74pRTrmqVKwjuSjAnDnbrXoLa4yoYXA0AbgjekHFojHxRtOQfXTHXPMVaLhY7Ps4mH7MkrjvasgfnXDHT1Ldny3EDsYmyxVdtQGT12qpJLJLgiExLJyIQbcsgYG22fnSS9M9xhbaN9aNpypHdJGwz4nnXLS4khYAwNDExKrJsVcjpmr7zWcTWJwz4rcRTxtEU1Jp+sDZXPkMUn4TGJOIwxxxrHCr6lRdsADwrnF55ZbplVu/p5k7KK0/Ry1Id7gyFiqaQemetR7lrWOjG0k1txJunbgD3KtNvo4MNc+yP/8AVIuDEvZ30p/rLl2Hs6V6D6OL3Llv31X4KP1ru/ph5Nvvyb1VKuVq6jGaxawxdgVYFeeKEBibVETGT05qfaK1laiUpdiXY7oj9shUfeXcf6VqR1dcowI8jWTQRuNqkEGcgaD4rVRaUzDXRWfVIg3w48tjUhcR43JHtFXEpTwF5AVw12o0pUidt6y3kPbwhO0VMSxyZbwR1Y/hWo+VYOK8PF+kKawmiUM2VzrQ5DL7wakyebgTekfVSIVuLlu20ADCmSZ3U75JKy49qg8qk/CVjjVxdwLH67sASw75bbB5HIB9gqEP0YeOWKQSwlkkJZm1MWUhByJwCdAzjGDyO28rf6MyxuhedDpiMa4z3OfLkG57k77dedMmu04IvZSpczJIhI0tHkNkEkEnPPyrV2l7Z/tozeQgftYx9ao/eTk3/bv5VLhNi1is6sUw8pdVRcYB8+Z9+a38qAS3txDef0fPayrIouSrEHlmNtiOYOQNjvSXjRMaO2P2civ7gac8fsIZFS5QNFcrKmJ4jpfnjB2ww3OzZHlmkPF/SIo51u4xPGyH66BN/wDuTp7RkeyteP8A5mGd5y8S0cW4ebp7No20MTo1Y23HWkl1DcC+htXUQz9oqkSDb2+Yzjy3r0cU63fAobmB1cJpYFd+W9X8bQXsdywGTpRVI5rsTt4GuSsdu+95iCKys5Twe7MRZozKX1ZB5DBY7Z23O3hWu+R34ONW1sUGAdII+Ga18Gt7huHKEmHZhn7obTnc/uE+HXpS6SNo5o7NZ5Gti+VUAkqcnYcj/qQeproyHLs7pTb211dSTQyIIfRxqlYDkPs/jivQtEOH8F27rCPPPr/5rJHBdduLYXsoW4PeDRx5wDkknG+a138FxLNFb+mOVZwCOzTkN/DxxXLMREu2l5mO0bOMQ2EiLy7Rh7807+ji4tbj+3P8iUhihuGsEcXsg15fGhOu/hTrgNrcf0fqF9INcrttGn3iPDyrtt1x1h5le+S0nQFBFZfRbn/7CX/CT9KDa3OP+YS/4Uf6VljXUxdWpuTarcwm4Az2IkGv+7zqw4VSzEBQMknkBS69sJJ77UrMAVgDlJCjkKzk5KnODkbdd6T23DeMPFJHc9rIWDqE9MYrEWSPOcsSwzqwGyRnO2djBr1WOvSpAV5q64bxFbmQ2k87QIrqielt3dhkMxbUT4b7eIp7wiKaLhlulySZQveLNqJ32336UYNahyo38vhQCDyIO+K7TJzNFcaoZIpaaR2qJo1g8zXcUjcFSrlRZjyFMk6hM4SMsSMAjPszUDqPgfaapljZlZdCEEYIzRg2GLiM+ba5QsNSzxMoz9nWv5hqxcSGwx1U1LjNvcNZiVET0mNcMG31DY/kCKLvvRqw3HMZrfhYc3ot4LbQ3VnIsRMNwuxeP7W3Ucj+NWpdy2XBLiO9RpBG/emiGc7d3I5jpWLhUr2/FNIGIiGRuhyDsfnVl7cdtcPoZxa6gJSPujr8/dmuOvUvRvHlTYMeBr/7aJUlk31Sd1SdQJ2I91UcbkJhjl1ykoxySN8Df8QK320cKwoquyoNlVU6D3Vg+kTJFYHQ5bOo6SMYwD+eB7631zZ8LeHaZrye5VcRxfVpn4n8qpnlPp8j/wDSiIXH3n5flUOH3lpbcNji9JjMhGp9B1bnc8qhBLHcXMIXUe8ZHyhH8PMe2sPGZn06r2rWma23AWKFF5KBjFOuEyJHw63jDAlI11kHqRnHz+def41Ky25MO8xK9n/Fmr07OForJPqUcmWRQ3Ik5xn2/Ja6+bp5/DGy9WMe+j21ggeVBgt2qj73rVrRw/Qg+BGKwiW9qzBJxKxvri4uDayNHIZUKNrKjs9AyP7y/M1CLg/EVmgkluHLIysSJmAJ+o1ZHX1Jefj516HGOm9dAqkPKW3COJRNEmmVG7zM/pJIDYjGo7750ttXH4VxaVbpUeaJtQGr0g/WAAerv3fb1r12OtGMDI3NAYeGRSRrNqGlTKcA+wAn3nJrd7KPdiu7UwiRUWFTNcNLBqhlrmojnVpWostSpDtFzjNS0kjbFRZBURlTz2oCXZt95fgf1qLRPj11PuNWBxUxg0EW3OqLaVD5YORS+cAxlRkjp0r0DoHBVwGU7EUhvIWtbgJklGGVJ8K34r9seWn4ecuba4S7Z0kAR91GjPkwPtHI1usp7VeGIZHRXydSnYuT0xzPwrfeWxmjGDhtsEeNZ0t+wd7i5ZZLpzl5NOPlStwbPXy04/1XhXJ+ELI3SxGMBIos/VvMgaXT0GOQI8SWqEy28hPbo1wxXDGY5U7/AHeXMDkKqvbxIYw0pY5J0IvNqxSek3aRmJpIO7mRV2Gc7AHmdvZzqptx8UYitOXnnfUGiOsaZxFFGPHC1H0+0Z8em2+R4SA4pWOGt2ZYxgtj12GW+JrasOGAKgDAUk9Nqxn9V8RDp/wo+bGKNbvokMsTAd5HJ2z45rbFDaXPrLDMcAZ2bHlW/gtwJrFI1GlogEZR5Ctjxxv66K/mwzVfueXbH9vwnGGG3WEYikdAPs68j51rBbA1hWHlUhAg9XKew/lXApU7tq92KnpWysXYdffU8iqteOVc1E0gtLAHnXNVQUE71YFpkMmu70AVLFMO4rhFdooJEiokVZXMUsPVRWo4q4iuaaWHqgp161AlxyrQVrhWlh6qWToy1k4uBLBGeokBHkOtbuzzWW8jyYlHLOTTj2VvTGq4jyRWG5XU2abOmFxWO4hzG+22K6Itjn8dnCOzshcTvNIDq1aVH3VGwH6+dObexSMDbFXcPtcAsRz3Ptrf2Y91ccxMzsvS8/GIrBTLIYhIrWMpQDZ4yrZ92RWWOa3MC9tFcIzHOWhY/hmnFyWVWEcbE9cDlVsCMtuoHP4UvFM3KrDiFlBdoTdxIsgMbam0781O+PP416BJY5V1ROrr4oQRWCaBdmZAcMp3HgRUpuE8PmOZLKAnnnRjerhlbudbCxBwaqt547qISwSLJGSQGU5BxtVH9HJFFP6GXR5IyoDSNpHu5Uph+jd3AyRpPFJEhyjv3WiJ3ZgFABydum1ViXoVwSwByy8wOY61aqivNyfRy4juFazFsidpDI7EkOSmjrg/dPh63lv6YDFPCAFdoooJ0V2uYrtMn//Z",
+
+        "symptoms": [
+
+          "Fatigue",
+
+          "Weight gain or loss",
+
+          "Dry skin",
+
+          "Muscle weakness",
+
+          "Irregular menstrual periods"
+
+        ],
+
+        "prevention": [
+
+          "Eat a balanced diet",
+
+          "Exercise regularly",
+
+          "Get regular check-ups"
+
+        ],
+
+        "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+
+      },
+
+      {
+
+        "name": "Diabetes",
+
+        "imagesrc":"diabeties.jpg",
+
+        "symptoms": [
+
+          "Frequent urination",
+
+          "Increased thirst",
+
+          "Blurry vision",
+
+          "Fatigue",
+
+          "Slow healing of cuts or sores"
+
+        ],
+
+        "prevention": [
+
+          "Maintain a healthy weight",
+
+          "Follow a balanced diet",
+
+          "Regular exercise"
+
+        ],
+
+        "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+
+      },
+
+      {
+
+        "name": "High Blood Pressure",
+
+        "imagesrc":"blood_pressure.jpg",
+
+        "symptoms": [
+
+          "Headaches",
+
+          "Shortness of breath",
+
+          "Chest pain",
+
+          "Dizziness",
+
+          "Blurred or double vision"
+
+        ],
+
+        "prevention": [
+
+          "Reduce salt intake",
+
+          "Exercise regularly",
+
+          "Maintain a healthy weight"
+
+        ],
+
+        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+
+      }
+
+    ]
+
+  }
+
+  
